@@ -1,9 +1,3 @@
-1. Open the conflicting README and overwrite it
-nano Snake-Game/README.md
-
-
-Delete everything in the file, then paste this content:
-
 # Snake Game – COSC-3411
 
 This project is a Snake Game implemented in Python using the built-in `turtle`
